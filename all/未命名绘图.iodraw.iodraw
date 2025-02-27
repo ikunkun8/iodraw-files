@@ -16,7 +16,7 @@
             <mxGeometry x="147" y="80" width="115" height="79" as="geometry" />
           </mxCell>
         </object>
-        <object label="%subnet%.1" placeholders="1" id="Gr0Zq-AI6Quabplr0KPa-104">
+        <object label="" placeholders="1" id="Gr0Zq-AI6Quabplr0KPa-104">
           <mxCell style="image;html=1;image=img/lib/clip_art/computers/Mainframe_128x128.png;strokeColor=none;strokeWidth=2;fillColor=#EDF5FF;fontSize=12;fontColor=#0A3DA3;labelBackgroundColor=#EDF5FF;fontStyle=1;labelBorderColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="Gr0Zq-AI6Quabplr0KPa-98" vertex="1">
             <mxGeometry x="281" y="79" width="80" height="80" as="geometry" />
           </mxCell>
